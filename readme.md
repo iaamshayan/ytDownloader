@@ -1,5 +1,3 @@
----
-```markdown
 # 🎬 YouTube Downloader Console App (Practice Project)
 
 Welcome to my simple **YouTube Downloader** project, created as part of my **Python learning journey**! This is a basic console application written in Python that allows users to:
@@ -82,5 +80,3 @@ Built by a Python learner who’s passionate about building real-world tools whi
 
 Thank you for checking this out! 🚀
 ```
-
----
