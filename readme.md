@@ -63,6 +63,8 @@ YTdownloader/
 - [ ] Implement multithreading for faster downloads
 - [ ] Build a GUI version using Tkinter or PyQt
 - [ ] Add support for playlist downloads
+- [ ] Making a frontend on REFLEX 
+
 
 ---
 
@@ -79,4 +81,3 @@ Built by a Python learner who’s passionate about building real-world tools whi
 ---
 
 Thank you for checking this out! 🚀
-```
